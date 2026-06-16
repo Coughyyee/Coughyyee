@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a software engineer working with fullstack applications. Specializing in fullstack website development. I also create content online to support fellow programmers.
+Im a software engineer working with fullstack applications, specializing in fullstack website development. But i must say, i do like to dip my feet in multiple waters. I also create content online to support fellow programmers.
 
 
 ## 🌐 Socials:
